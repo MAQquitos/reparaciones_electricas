@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://MAQquitos.github.io/reparaciones_electricas",
+  "homepage": "https://maqquitos.github.io/reparaciones_electricas/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
