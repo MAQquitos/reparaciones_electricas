@@ -1,6 +1,11 @@
 import React from 'react';
 import Header from './components/Header';
 import ContactForm from './components/ContactForm';
+import { BrowserRouter } from "react-router-dom";
+
+<BrowserRouter basename="/reparaciones_electricas">
+  <App />
+</BrowserRouter>;
 
 
 function App() {
