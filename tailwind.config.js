@@ -6,3 +6,9 @@ export default {
   },
   plugins: [],
 };
+
+import { BrowserRouter } from "react-router-dom";
+
+<BrowserRouter basename="/reparaciones_electricas">
+  <App />
+</BrowserRouter>;
